@@ -1,0 +1,15 @@
+.container > p{
+    color: red;
+    font-size: xx-large;
+
+}
+/* container AKA parent: is the element that contains the child */
+/* p tag AKA child: is the element that is direct child of the parent */
+
+/* Child selector is represented by ">" while the decent selector is represented by an empty space */
+
+.containerTwo p {
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
